@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Kutrapimmely
-- 👀 I’m interested in Girls and Computers.
-- 🌱 I’m currently studying at TU Vienna.
+
 
 
 <!---
